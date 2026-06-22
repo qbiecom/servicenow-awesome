@@ -259,26 +259,23 @@ ServiceNow is a large ecosystem. This list favors authoritative, active, useful 
 
 - [Arnoud Kooi](https://www.arnoudkooi.com/) - ServiceNow MVP and creator of SN Utils, SN Scriptsync, and many developer productivity resources.
 - [Arnoud Kooi GitHub](https://github.com/arnoudkooi) - GitHub profile for SN Utils, SN Scriptsync, and related ServiceNow utilities.
-- [Earl Duque LinkedIn](https://www.linkedin.com/in/earlduque/) - ServiceNow community creator and co-host of CJ & The Duke.
+- [Earl Duque LinkedIn](https://www.linkedin.com/in/earlduque/) - ServiceNow developer advocate and community creator sharing developer content, platform demos, and practitioner updates.
 - [Jace Benson](https://sn.jace.pro/) - ServiceNow MVP resource site with concise reference material, scripting notes, and implementation guidance.
 - [Jace Benson GitHub](https://github.com/jacebenson) - GitHub profile for Jace Benson's ServiceNow projects, examples, and experiments.
 - [Jace Benson ServiceNow Docs](https://sn.jace.pro/docs/) - Structured ServiceNow reference content maintained by Jace Benson.
 - [Robert Fedoruk: The Duke](https://www.linkedin.com/in/robertfedoruk/) - ServiceNow architect, creator, and co-host of CJ & The Duke.
 - [Tim Woodruff GitHub](https://github.com/thisnameissoclever) - GitHub profile for Tim Woodruff's ServiceNow tools, examples, and community work.
-- [Tim Woodruff LinkedIn](https://www.linkedin.com/in/timothywoodruff/) - ServiceNow architect and community contributor profile with platform guidance and updates.
 - [WomenNow](https://womennow.blog/) - Community publication spotlighting women doing notable work in the ServiceNow ecosystem.
 
 ## Blogs and Publications
 
-- [Crossfuze ServiceNow Resources](https://www.crossfuze.com/servicenow-resources/) - ServiceNow partner resource hub with articles, guides, and implementation insights.
 - [Datadog ServiceNow Blog Search](https://www.datadoghq.com/blog/search/?q=servicenow) - Datadog blog search for ServiceNow observability and incident workflow content.
 - [Dynatrace ServiceNow Blog Search](https://www.dynatrace.com/news/blog/?s=ServiceNow) - Dynatrace blog search for ServiceNow observability and integration content.
-- [Einar & Partners Blog](https://www.einar.partners/blog) - ServiceNow consulting blog covering implementation, architecture, and operations topics.
 - [Knowledge Sources To Go](https://www.servicenow.com/community/training-and-certifications/knowledge-sources-to-go/ta-p/2310130) - Maik Skoddow's community-maintained reference hub for finding ServiceNow docs, learning material, and practitioner knowledge sources.
 - [Mark Roethof Content Collection](https://www.servicenow.com/community/developer-blog/400-articles-blogs-videos-podcasts-share-projects-experiences/ba-p/2292127) - Curated index of hundreds of ServiceNow articles, blogs, videos, podcasts, and shared projects.
 - [Matt's ServiceNow Notebook](https://www.snnotebook.com/) - Matt Warwick's ServiceNow blog with practical development notes, community recaps, platform tips, and useful reference links.
 - [NewRocket Blog](https://www.newrocket.com/blog) - ServiceNow-focused blog covering UX, implementation, platform engineering, and workflow design.
-- [Nexthink ServiceNow Blog Search](https://www.nexthink.com/blog?search=servicenow) - Nexthink blog search for ServiceNow observability, experience, and IT operations integrations.
+- [Nexthink Blog](https://www.nexthink.com/blog) - Nexthink blog with digital employee experience, IT operations, and ITSM integration content, including ServiceNow-related posts.
 - [Pathways Consulting Blog](https://pathwayscg.com/blog/) - ServiceNow partner blog covering platform, ITSM, and implementation topics.
 - [Plat4mation Blog](https://plat4mation.com/blog/) - ServiceNow partner blog covering workflow automation, implementations, and enterprise service management.
 - [Robert Fedoruk ServiceNow Content Megathread](https://www.servicenow.com/community/servicenow-ai-platform-articles/robert-fedoruk-s-servicenow-content-megathread-over-200/ta-p/2399362) - Large community-maintained collection of ServiceNow articles, deep dives, and practitioner resources.
@@ -300,18 +297,10 @@ ServiceNow is a large ecosystem. This list favors authoritative, active, useful 
 ## YouTube and Video
 
 - [Basico ServiceNow Learning](https://www.youtube.com/@BasicoServiceNowLearning) - YouTube channel with ServiceNow training videos and platform explanations.
-- [CJ & The Duke](https://www.youtube.com/@CJAndTheDuke) - YouTube channel covering ServiceNow implementation, careers, architecture, and community topics.
 - [Chuck Tomasi](https://www.youtube.com/@ChuckTomasi) - ServiceNow developer advocate channel with platform and coding content.
-- [Jace Benson](https://www.youtube.com/@JaceBenson) - Community creator channel with ServiceNow educational videos and practical walkthroughs.
-- [Learn ServiceNow with Sanjiv](https://www.youtube.com/@LearnServiceNowwithSanjiv) - YouTube channel with ServiceNow administrator and developer tutorial content.
 - [ServiceNow](https://www.youtube.com/@ServiceNow) - Official ServiceNow YouTube channel for product demos, webinars, customer stories, and events.
 - [ServiceNow Community](https://www.youtube.com/@ServiceNowCommunity) - Official community video channel with live events, product sessions, and practitioner programming.
 - [ServiceNow Developer Program](https://www.youtube.com/@ServiceNowDevProgram) - Official developer channel with tutorials, live streams, CreatorCon content, and platform education.
-- [ServiceNow Research](https://www.youtube.com/@ServiceNowResearch) - Official research channel with AI, machine learning, and enterprise automation content.
-- [ServiceNow Support](https://www.youtube.com/@ServiceNowSupport) - Official support channel with troubleshooting, product guidance, and how-to videos.
-- [ServiceNow Simple](https://www.youtube.com/@ServiceNowSimple) - YouTube channel focused on accessible ServiceNow tutorials and administrator guidance.
-- [ServiceNow with Ravi](https://www.youtube.com/@ServiceNowwithRavi) - YouTube channel with ServiceNow concepts, implementation walkthroughs, and interview preparation.
-- [The Duke Digital Media](https://www.youtube.com/@TheDukeDigitalMedia) - Community-oriented channel with ServiceNow tutorials, interviews, and ecosystem content.
 
 ## Podcasts
 
@@ -323,16 +312,13 @@ ServiceNow is a large ecosystem. This list favors authoritative, active, useful 
 ## Events and Conferences
 
 - [Community Live](https://www.servicenow.com/community/community-live/ct-p/community-live) - Official live-session hub for community webinars and product discussions.
-- [CreatorCon](https://www.servicenow.com/events/knowledge/creatorcon.html) - Official developer and builder conference experience hosted as part of ServiceNow Knowledge.
 - [CreatorCon YouTube Search](https://www.youtube.com/@ServiceNowDevProgram/search?query=CreatorCon) - Official developer channel search for CreatorCon sessions and demos.
 - [Developer Meetups Search](https://www.meetup.com/find/?keywords=ServiceNow) - Meetup search for ServiceNow developer and user-group events.
 - [Knowledge](https://www.servicenow.com/events/knowledge.html) - Official annual ServiceNow flagship conference for product announcements, training, labs, and community networking.
 - [Knowledge YouTube Search](https://www.youtube.com/@ServiceNow/search?query=Knowledge) - Official YouTube search for recorded Knowledge conference sessions and highlights.
 - [LinkedIn Events Search: ServiceNow](https://www.linkedin.com/search/results/events/?keywords=ServiceNow) - LinkedIn search for ServiceNow webinars, partner events, and community sessions.
 - [ServiceNow Events](https://www.servicenow.com/events.html) - Official events hub for conferences, webinars, roadshows, and digital events.
-- [ServiceNow Hackathons](https://www.servicenow.com/community/developer-articles/servicenow-hackathons/ta-p/2330454) - Community and developer resource for ServiceNow hackathon participation and announcements.
-- [ServiceNow Partner Events](https://www.servicenow.com/partners/events.html) - Official partner event hub for ecosystem webinars, summits, and partner programming.
-- [ServiceNow Webinars](https://www.servicenow.com/events/webinars.html) - Official webinar hub for product, industry, and practitioner sessions.
+- [ServiceNow Webinars](https://www.servicenow.com/events/on-demand-webinars.html) - Official webinar hub for live and on-demand product, industry, and practitioner sessions.
 - [World Forum](https://www.servicenow.com/events/world-forum.html) - Official global event series with product sessions, customer stories, and ecosystem networking.
 
 ## Careers and Ecosystem
