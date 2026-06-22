@@ -281,10 +281,7 @@ ServiceNow is a large ecosystem. This list favors authoritative, active, useful 
 - [Robert Fedoruk ServiceNow Content Megathread](https://www.servicenow.com/community/servicenow-ai-platform-articles/robert-fedoruk-s-servicenow-content-megathread-over-200/ta-p/2399362) - Large community-maintained collection of ServiceNow articles, deep dives, and practitioner resources.
 - [ServiceNow Blog](https://www.servicenow.com/blogs.html) - Official blog covering product announcements, thought leadership, customer stories, and platform guidance.
 - [ServiceNow Community Developer Blog](https://www.servicenow.com/community/developer-blog/bg-p/developer-blog) - Official community developer blog featuring articles from ServiceNow employees, MVPs, and contributors.
-- [ServiceNow Engineering Blog](https://www.servicenow.com/blogs/engineering.html) - Official engineering blog category for platform engineering and technical culture posts.
-- [ServiceNow Events Blog](https://www.servicenow.com/blogs/events.html) - Official event blog category for conference updates and event recaps.
-- [ServiceNow Newsroom](https://www.servicenow.com/company/media/press-room.html) - Official newsroom for launches, press releases, and company announcements.
-- [ServiceNow TechNow Blog Search](https://www.servicenow.com/search.html?q=TechNow) - Search for ServiceNow TechNow webinar and technical enablement posts.
+- [ServiceNow Newsroom](https://newsroom.servicenow.com/overview/default.aspx) - Official newsroom for launches, press releases, media resources, and company announcements.
 - [ServiceNowGuru](https://servicenowguru.com/) - Long-running community blog with scripts, admin tips, and development examples.
 - [SN Pro Tips](https://snprotips.com/) - Practitioner blog by Tim Woodruff with advanced ServiceNow development and architecture guidance.
 - [Snowycode](https://blog.snowycode.com/) - Developer-focused ServiceNow blog with how-tos, cheat sheets, certification guides, beginner content, and career resources.
@@ -292,7 +289,7 @@ ServiceNow is a large ecosystem. This list favors authoritative, active, useful 
 - [Splunk ServiceNow Blog Search](https://www.splunk.com/en_us/blog/search.html?q=servicenow) - Splunk blog search for ServiceNow integration and observability posts.
 - [The Cloud People Blog](https://www.thecloudpeople.com/blog) - ServiceNow partner blog with platform-owner guidance on AI, CSDM, CMDB, CSM, ITSM, and operating models.
 - [The SN Nerd](https://thesnnerd.com/) - ServiceNow practitioner blog with development tutorials and platform explanations.
-- [The ServiceNow Wizard](https://www.servicenowwizard.com/) - Community blog with ServiceNow development tips, scripting examples, and admin/developer walkthroughs.
+- [The ServiceNow Wizard](https://snwizard.com/) - Eric Riemer's community blog with ServiceNow development tips, scripting examples, theming guidance, and admin/developer walkthroughs.
 
 ## YouTube and Video
 
