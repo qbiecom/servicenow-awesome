@@ -1,0 +1,75 @@
+{
+  "reviewedOn": "2026-10-03",
+  "browserChecks": [
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/guides",
+      "result": "Guides heading and in-depth technology overview text present"
+    },
+    {
+      "url": "https://developer.servicenow.com/connect.do#!/share",
+      "result": "Share page and How Share Works text present"
+    },
+    {
+      "url": "https://store.servicenow.com/sn_appstore_store.do#!/store/search?listingtype=allintegrations",
+      "result": "Integrations filter selected; 1197 integrations listed; retained and renamed to match its broader scope"
+    },
+    {
+      "url": "https://www.servicenow.com/docs/search?content-lang=en-US&query=Common+Service+Data+Model",
+      "result": "CSDM search results and current documentation links present; established query parameter for repaired documentation searches"
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/reference/now-sdk",
+      "result": "PAGE NOT FOUND in browser; replaced with official SDK walkthrough"
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/reference/now-cli",
+      "result": "PAGE NOT FOUND in browser; replaced with official CLI documentation"
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/reference/api",
+      "result": "PAGE NOT FOUND in browser; removed in favor of official API documentation already added"
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/videos",
+      "result": "Redirected to Brazil Learning Plans; removed because it is not the claimed video library"
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_aes_xanadu_what_is_app_engine_studio",
+      "result": "Automatically rewrote release to Brazil, then PAGE NOT FOUND; replaced with current official App Engine Studio tutorial"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/sn-utils-tools-for-servic/cegbonidlnkdlmfjpaocfghhgjmgigoc",
+      "result": "Item not available after cookie consent; replaced with maintainer-linked current listing"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/sn-utils-tools-for-servic/jgaodbdddndbaijmcljdbglhpdhnjobg",
+      "result": "SN Utils - Tools for ServiceNow heading and SN Utils B.V. publisher displayed; reached from snutils.com/install"
+    }
+  ],
+  "additionalEvidence": [
+    {
+      "url": "https://registry.terraform.io/v1/providers/ServiceNow/servicenow",
+      "result": "Provider not found; registry web app had returned HTTP 200 shell"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/tagged/servicenow",
+      "result": "Automated GET blocked; web retrieval returned relevant ServiceNow questions"
+    },
+    {
+      "url": "https://careers.servicenow.com/",
+      "result": "Automated GET blocked; web retrieval returned ServiceNow careers content"
+    },
+    {
+      "url": "https://www.indeed.com/q-servicenow-jobs.html",
+      "result": "Automated GET blocked; web retrieval returned ServiceNow job results"
+    },
+    {
+      "url": "https://newsroom.servicenow.com/overview/default.aspx",
+      "result": "Automated GET blocked; web retrieval returned official media resources and announcements"
+    },
+    {
+      "url": "https://servicenowguru.com/",
+      "result": "Automated GET blocked; web retrieval returned relevant ServiceNow articles"
+    }
+  ]
+}

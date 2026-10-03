@@ -1,0 +1,4350 @@
+{
+  "checkedAt": "2026-10-03T16:16:43.204Z",
+  "references": 253,
+  "uniqueUrls": 253,
+  "results": [
+    {
+      "url": "https://awesome.re/badge.svg",
+      "status": 200,
+      "finalUrl": "https://awesome.re/badge.svg",
+      "title": "",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 1,
+          "label": "![Awesome",
+          "url": "https://awesome.re/badge.svg"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/success.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/impact.html",
+      "title": "ServiceNow Impact - Customer Success",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 31,
+          "label": "Customer Success Center",
+          "url": "https://www.servicenow.com/success.html"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/nowcreate",
+      "status": 200,
+      "finalUrl": "https://learning.servicenow.com/nowcreate",
+      "title": "ServiceNow Create - Now Create",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 32,
+          "label": "Now Create",
+          "url": "https://nowlearning.servicenow.com/nowcreate"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Fssosignon.servicenow.com%2Fapp%2Fservicenowexternalprod_nowlearning_1%2Fexkm5nej6hTmvBxhf0x7%2Fsso%2Fsaml%3FSAMLRequest%3DnVPbjtowEP2VyO%252FkRsvFAiQWVBVpu0WQ9qEvK8eegFvHTj0OpH%252B%252FTmAXtNqlaiU%252FzZyZOXPmeIKsVGlF57Xb6w38rgFd0JRKIz1lpqS2mhqGEqlmJSB1nG7nX%252B5pGsa0ssYZbhQJ5ohgnTR6YTTWJdgt2IPk8G1zPyV75yqkUaTNUQGzWupdiKe8D4XclJFmh4rtIBSGBEtPQmrWdrvUIhqUO23060pWVdElBI0Dq5nyzMTj1bzHJILmV%252FlRw8%252FBPisPd82%252BiJth2zZqNyXBJ2M5dDpMScEUAglWyynZPixgxEW%252FEONxkvK0nw9ZnObFaDz6UORpMc5zD8Q1Q5QHuJQi1rDS6Jh2U5LG6aCXxL24nyUD2r5hmCTJDxKszwreSS08zdty5ycQ0s9Ztu6tv26zrsFBCrAPHv3PSn8Hi53KvjuZTbqT0466vXbBbVbs%252BfRk9vfxk%252Bh6yHlkRVv2q%252BXaKMn%252FBHOlzHFhgTm%252FkbM1dMcpmXufRxImXUSKXtFBKZRMqrkQFhBJ9DLo7HEQ3aW9WZ13TLAwZcWsxFYKaBh3L2JcwxbKr7qB4r%252BkuQnjlLe9fbj10dFY0foCuOeZWaaxMtY9K%252FcWo9k5%252Bc5%252Bl%252FT1P589AQ%253D%253D%26RelayState%3Dhttps%253A%252F%252Fnowlearning.servicenow.com%252Fnavpage.do",
+      "title": "ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 33,
+          "label": "Now Learning",
+          "url": "https://nowlearning.servicenow.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/now-platform.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/now-platform.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 34,
+          "label": "Now Platform",
+          "url": "https://www.servicenow.com/products/now-platform.html"
+        }
+      ]
+    },
+    {
+      "url": "https://support.servicenow.com/",
+      "status": 200,
+      "finalUrl": "https://support.servicenow.com/now",
+      "title": "ServiceNow - Now Support",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 35,
+          "label": "Now Support",
+          "url": "https://support.servicenow.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/",
+      "title": "ServiceNow - Put AI to Work",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 36,
+          "label": "ServiceNow",
+          "url": "https://www.servicenow.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/company/accessibility.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/company/accessibility.html",
+      "title": "Accessibility - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 37,
+          "label": "ServiceNow Accessibility",
+          "url": "https://www.servicenow.com/company/accessibility.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/",
+      "title": "Home - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 38,
+          "label": "ServiceNow Community",
+          "url": "https://www.servicenow.com/community/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/customers.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/customers.html",
+      "title": "Customer Stories - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 39,
+          "label": "ServiceNow Customer Stories",
+          "url": "https://www.servicenow.com/customers.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/impact.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/impact.html",
+      "title": "ServiceNow Impact - Customer Success",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 40,
+          "label": "ServiceNow Impact",
+          "url": "https://www.servicenow.com/impact.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/legal.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/legal.html",
+      "title": "ServiceNow Legal Notices | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 41,
+          "label": "ServiceNow Legal Center",
+          "url": "https://www.servicenow.com/legal.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/partners/partner-finder.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/partners/partner-finder.html",
+      "title": "Partner Finder",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 42,
+          "label": "ServiceNow Partner Finder",
+          "url": "https://www.servicenow.com/partners/partner-finder.html"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 43,
+          "label": "ServiceNow Product Documentation",
+          "url": "https://docs.servicenow.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 44,
+          "label": "ServiceNow Product Documentation Search",
+          "url": "https://docs.servicenow.com/search"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products-by-category.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products-by-category.html",
+      "title": "Products by Category - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 45,
+          "label": "ServiceNow Products",
+          "url": "https://www.servicenow.com/products-by-category.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/resources.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/resources.html",
+      "title": "ServiceNow | Resource Center | Assets for ITSM, ITIL, Asset Management, Service Automation, CMDB Software - ServiceNow Resources",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 46,
+          "label": "ServiceNow Resources",
+          "url": "https://www.servicenow.com/resources.html"
+        }
+      ]
+    },
+    {
+      "url": "https://store.servicenow.com/",
+      "status": 200,
+      "finalUrl": "https://store.servicenow.com/store",
+      "title": "Home - ServiceNow Store",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 47,
+          "label": "ServiceNow Store",
+          "url": "https://store.servicenow.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/company/trust.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/company/trust.html",
+      "title": "ServiceNow Trust and Compliance Center - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 48,
+          "label": "ServiceNow Trust Center",
+          "url": "https://www.servicenow.com/company/trust.html"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_aes_xanadu_what_is_app_engine_studio",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_aes_xanadu_what_is_app_engine_studio",
+      "outcome": "route-unverified",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 52,
+          "label": "App Engine Studio Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_aes_xanadu_what_is_app_engine_studio"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_automatedtestframework_xanadu_automated_test_framework",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_automatedtestframework_xanadu_automated_test_framework",
+      "outcome": "route-unverified",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 53,
+          "label": "Automated Test Framework Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_automatedtestframework_xanadu_automated_test_framework"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_business_rules",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_business_rules",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Business Rules | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 54,
+          "label": "Business Rules Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_business_rules"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_client_script_types",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_client_script_types",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Client Script Types | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 55,
+          "label": "Client Scripting Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_client_script_types"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/blog.do",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/blog.do",
+      "title": "ServiceNow Developer Blog",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 56,
+          "label": "Developer Blog",
+          "url": "https://developer.servicenow.com/blog.do"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/guides",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/guides",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Guides | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 57,
+          "label": "Developer Guides",
+          "url": "https://developer.servicenow.com/dev.do#!/guides"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 58,
+          "label": "Developer Program",
+          "url": "https://developer.servicenow.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNowDevProgram",
+      "status": 200,
+      "finalUrl": "https://github.com/ServiceNowDevProgram",
+      "title": "ServiceNow Dev Program · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 59,
+          "label": "Developer Program GitHub",
+          "url": "https://github.com/ServiceNowDevProgram"
+        }
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/showcase/servicenow-developer-program/",
+      "status": 404,
+      "finalUrl": "https://www.linkedin.com/showcase/servicenow-developer-program/",
+      "title": "LinkedIn",
+      "fragment": "",
+      "outcome": "http-error",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 60,
+          "label": "Developer Program LinkedIn",
+          "url": "https://www.linkedin.com/showcase/servicenow-developer-program/"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/connect.do#!/share",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/connect.do",
+      "title": "",
+      "fragment": "#!/share",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Share | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 61,
+          "label": "Developer Share",
+          "url": "https://developer.servicenow.com/connect.do#!/share"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/videos",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/videos",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Home | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 62,
+          "label": "Developer Videos",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/videos"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_flowdesigner_xanadu_what_is_flow_designer",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_flowdesigner_xanadu_what_is_flow_designer",
+      "outcome": "route-unverified",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 63,
+          "label": "Flow Designer Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_flowdesigner_xanadu_what_is_flow_designer"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_extending_glideajax",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_extending_glideajax",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Extending GlideAjax | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 64,
+          "label": "GlideAjax Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_extending_glideajax"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/reference/api/xanadu/server/no-namespace/c_GlideRecordScopedAPI",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/reference/api/xanadu/server/no-namespace/c_GlideRecordScopedAPI",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "GlideRecord | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 65,
+          "label": "GlideRecord API",
+          "url": "https://developer.servicenow.com/dev.do#!/reference/api/xanadu/server/no-namespace/c_GlideRecordScopedAPI"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_instscan_xanadu_instance_scan",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_instscan_xanadu_instance_scan",
+      "outcome": "route-unverified",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 66,
+          "label": "Instance Scan Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_instscan_xanadu_instance_scan"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_flowdesigner_xanadu_what_is_integrationhub",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_flowdesigner_xanadu_what_is_integrationhub",
+      "outcome": "route-unverified",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 67,
+          "label": "IntegrationHub Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_flowdesigner_xanadu_what_is_integrationhub"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_rest_xanadu_introduction_to_the_rest_api_explorer",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_rest_xanadu_introduction_to_the_rest_api_explorer",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Introduction to the REST API Explorer | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 68,
+          "label": "REST API Explorer Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_rest_xanadu_introduction_to_the_rest_api_explorer"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_devenvironment_xanadu_application_scope",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_devenvironment_xanadu_application_scope",
+      "outcome": "route-unverified",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 69,
+          "label": "Scoped Applications Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_devenvironment_xanadu_application_scope"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_script_includes",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_script_includes",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Script Includes | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 70,
+          "label": "Script Includes Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_scripting_xanadu_script_includes"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/reference/api",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/reference/api",
+      "outcome": "route-unverified",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 71,
+          "label": "ServiceNow API Reference",
+          "url": "https://developer.servicenow.com/dev.do#!/reference/api"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/reference/now-cli",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/reference/now-cli",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Home | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 72,
+          "label": "ServiceNow CLI Documentation",
+          "url": "https://developer.servicenow.com/dev.do#!/reference/now-cli"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/reference/now-sdk",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/reference/now-sdk",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Home | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 73,
+          "label": "ServiceNow SDK Documentation",
+          "url": "https://developer.servicenow.com/dev.do#!/reference/now-sdk"
+        }
+      ]
+    },
+    {
+      "url": "https://www.npmjs.com/org/servicenow",
+      "status": 403,
+      "finalUrl": "https://www.npmjs.com/org/servicenow",
+      "title": "Just a moment...",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 74,
+          "label": "ServiceNow npm Organization",
+          "url": "https://www.npmjs.com/org/servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_devenvironment_xanadu_source_control",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_devenvironment_xanadu_source_control",
+      "outcome": "reachable",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "Source Control | ServiceNow Developers",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 75,
+          "label": "Source Control Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_devenvironment_xanadu_source_control"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_devenvironment_xanadu_developing_in_studio",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_devenvironment_xanadu_developing_in_studio",
+      "outcome": "route-unverified",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 76,
+          "label": "Studio Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/servicenow_application_developer/app_store_learnv2_devenvironment_xanadu_developing_in_studio"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_uibuilder_xanadu_what_is_ui_builder",
+      "status": 200,
+      "finalUrl": "https://developer.servicenow.com/dev.do",
+      "title": "ServiceNow Developers",
+      "fragment": "#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_uibuilder_xanadu_what_is_ui_builder",
+      "outcome": "route-unverified",
+      "note": "Fragment checked through the developer portal crawler URL; browser routing can still differ",
+      "routeStatus": 200,
+      "routeTitle": "",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 77,
+          "label": "UI Builder Guide",
+          "url": "https://developer.servicenow.com/dev.do#!/learn/learning-plans/xanadu/new_to_servicenow/app_store_learnv2_uibuilder_xanadu_what_is_ui_builder"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/company/academic-partnerships.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/company/academic-partnerships.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 81,
+          "label": "Academic Partnerships",
+          "url": "https://www.servicenow.com/company/academic-partnerships.html"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Administration%20Fundamentals",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=Administration%20Fundamentals",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 82,
+          "label": "Administration Fundamentals Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Administration%20Fundamentals"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=App%20Engine",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=App%20Engine",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 83,
+          "label": "App Engine Training Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=App%20Engine"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=architect",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=architect",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 84,
+          "label": "Architect Training Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=architect"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=learning_course_prev&course_id=6b78901cdbed1010fd4ce536ca9619d8",
+      "status": 200,
+      "finalUrl": "https://learning.servicenow.com/lxp?course_id=6b78901cdbed1010fd4ce536ca9619d8&id=learning_course_prev",
+      "title": "LXP Course Preview - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 85,
+          "label": "Certified Application Developer",
+          "url": "https://nowlearning.servicenow.com/lxp?id=learning_course_prev&course_id=6b78901cdbed1010fd4ce536ca9619d8"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=certification_path",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp?id=certification_path",
+      "title": "Page Not Found - ServiceNow University",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 86,
+          "label": "Certified Implementation Specialist",
+          "url": "https://nowlearning.servicenow.com/lxp?id=certification_path"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=learning_course_prev&course_id=91e263fbdb6d1010fd4ce536ca9619f1",
+      "status": 200,
+      "finalUrl": "https://learning.servicenow.com/lxp?course_id=91e263fbdb6d1010fd4ce536ca9619f1&id=learning_course_prev",
+      "title": "LXP Course Preview - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 87,
+          "label": "Certified System Administrator",
+          "url": "https://nowlearning.servicenow.com/lxp?id=learning_course_prev&course_id=91e263fbdb6d1010fd4ce536ca9619f1"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=cta_program",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp?id=cta_program",
+      "title": "Page Not Found - ServiceNow University",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 88,
+          "label": "Certified Technical Architect",
+          "url": "https://nowlearning.servicenow.com/lxp?id=cta_program"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Flow%20Designer",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=Flow%20Designer",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 89,
+          "label": "Flow Designer Training Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Flow%20Designer"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=micro-certification",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=micro-certification",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 90,
+          "label": "Micro-Certifications Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=micro-certification"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/now-learning/ct-p/now-learning",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/now-learning/ct-p/now-learning",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 91,
+          "label": "Now Learning Community",
+          "url": "https://www.servicenow.com/community/now-learning/ct-p/now-learning"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/now-platform-blog/platform-academies-overview/ba-p/2278649",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/servicenow-ai-platform-blog/platform-academies-overview/ba-p/2278649",
+      "title": "Platform Academies Overview - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 92,
+          "label": "Platform Academies",
+          "url": "https://www.servicenow.com/community/now-platform-blog/platform-academies-overview/ba-p/2278649"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=certification_home",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp?id=certification_home",
+      "title": "Page Not Found - ServiceNow University",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 93,
+          "label": "ServiceNow Certification Program",
+          "url": "https://nowlearning.servicenow.com/lxp?id=certification_home"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=ServiceNow%20Fundamentals",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=ServiceNow%20Fundamentals",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 94,
+          "label": "ServiceNow Fundamentals Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=ServiceNow%20Fundamentals"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=learning_plans",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp?id=learning_plans",
+      "title": "Page Not Found - ServiceNow University",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 95,
+          "label": "ServiceNow Learning Plans",
+          "url": "https://nowlearning.servicenow.com/lxp?id=learning_plans"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=simulator",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=simulator",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 96,
+          "label": "ServiceNow Simulator Courses Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=simulator"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Scripting%20Fundamentals",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=Scripting%20Fundamentals",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 97,
+          "label": "Scripting Fundamentals Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Scripting%20Fundamentals"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/services/training-and-certification.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/university/training-and-certification.html",
+      "title": "Training and Certifications - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 98,
+          "label": "Training and Certification",
+          "url": "https://www.servicenow.com/services/training-and-certification.html"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp/en/now-platform/welcome-to-servicenow?id=learning_course_prev&course_id=2f61d383475cf95890542034846d4307",
+      "status": 200,
+      "finalUrl": "https://learning.servicenow.com/lxp/en/now-platform/welcome-to-servicenow?course_id=2f61d383475cf95890542034846d4307&id=learning_course_prev",
+      "title": "Welcome to ServiceNow - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 99,
+          "label": "Welcome to ServiceNow",
+          "url": "https://nowlearning.servicenow.com/lxp/en/now-platform/welcome-to-servicenow?id=learning_course_prev&course_id=2f61d383475cf95890542034846d4307"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/application-portfolio-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/application-portfolio-management.html",
+      "title": "Application Portfolio Management (APM) - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 103,
+          "label": "Application Portfolio Management",
+          "url": "https://www.servicenow.com/products/application-portfolio-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/architect-forum/bd-p/architect-forum",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/architect-forum/bd-p/architect-forum",
+      "title": "Architect forum - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 104,
+          "label": "Architect Forum",
+          "url": "https://www.servicenow.com/community/architect-forum/bd-p/architect-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search?q=Common%20Service%20Data%20Model",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 105,
+          "label": "Common Service Data Model Documentation Search",
+          "url": "https://docs.servicenow.com/search?q=Common%20Service%20Data%20Model"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/enterprise-architecture.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/enterprise-architecture.html",
+      "title": "Enterprise Architecture - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 106,
+          "label": "Enterprise Architecture",
+          "url": "https://www.servicenow.com/products/enterprise-architecture.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/success/implementation.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/page-not-found.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 107,
+          "label": "Implementation Methodology",
+          "url": "https://www.servicenow.com/success/implementation.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/platform-analytics-forum/bd-p/platform-analytics-forum",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/platform-analytics-forum/bd-p/platform-analytics-forum",
+      "title": "Platform Analytics forum - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 108,
+          "label": "Platform Analytics Forum",
+          "url": "https://www.servicenow.com/community/platform-analytics-forum/bd-p/platform-analytics-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=ServiceNow+architecture",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/results?search_query=ServiceNow+architecture",
+      "title": "",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 109,
+          "label": "ServiceNow Architecture YouTube Search",
+          "url": "https://www.youtube.com/results?search_query=ServiceNow+architecture"
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=ServiceNow+CSDM",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/results?search_query=ServiceNow+CSDM",
+      "title": "",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 110,
+          "label": "ServiceNow CSDM YouTube Search",
+          "url": "https://www.youtube.com/results?search_query=ServiceNow+CSDM"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/strategic-portfolio-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/strategic-portfolio-management.html",
+      "title": "Strategic Portfolio Management (SPM) - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 111,
+          "label": "Strategic Portfolio Management",
+          "url": "https://www.servicenow.com/products/strategic-portfolio-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/technology-portfolio-management.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/technology-portfolio-management.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 112,
+          "label": "Technology Portfolio Management",
+          "url": "https://www.servicenow.com/products/technology-portfolio-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/ai-search.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/ai-search.html",
+      "title": "AI Search - ServiceNow AI Platform - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 116,
+          "label": "AI Search",
+          "url": "https://www.servicenow.com/products/ai-search.html"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search?q=AI%20Search",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 117,
+          "label": "AI Search Documentation Search",
+          "url": "https://docs.servicenow.com/search?q=AI%20Search"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=AI%20Search",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=AI%20Search",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 118,
+          "label": "AI Search Now Learning Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=AI%20Search"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/document-intelligence.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/document-intelligence.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 119,
+          "label": "Document Intelligence",
+          "url": "https://www.servicenow.com/products/document-intelligence.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/now-platform/generative-ai.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/platform/generative-ai.html",
+      "title": "Generative AI - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 120,
+          "label": "Generative AI",
+          "url": "https://www.servicenow.com/now-platform/generative-ai.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/natural-language-understanding.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/natural-language-understanding.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 121,
+          "label": "Natural Language Understanding",
+          "url": "https://www.servicenow.com/products/natural-language-understanding.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/now-assist.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/now-assist.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 122,
+          "label": "Now Assist",
+          "url": "https://www.servicenow.com/products/now-assist.html"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search?q=Now%20Assist",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 123,
+          "label": "Now Assist Documentation Search",
+          "url": "https://docs.servicenow.com/search?q=Now%20Assist"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/now-assist-for-creator.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/now-assist-for-creator.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 124,
+          "label": "Now Assist for Creator",
+          "url": "https://www.servicenow.com/products/now-assist-for-creator.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/now-assist-for-csm.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/now-assist-for-csm.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 125,
+          "label": "Now Assist for CSM",
+          "url": "https://www.servicenow.com/products/now-assist-for-csm.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/now-assist-for-hr-service-delivery.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/now-assist-for-hr-service-delivery.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 126,
+          "label": "Now Assist for HRSD",
+          "url": "https://www.servicenow.com/products/now-assist-for-hr-service-delivery.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/now-assist-for-itsm.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/now-assist-for-itsm.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 127,
+          "label": "Now Assist for ITSM",
+          "url": "https://www.servicenow.com/products/now-assist-for-itsm.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/now-assist-for-security-operations.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/now-assist-for-security-operations.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 128,
+          "label": "Now Assist for Security Operations",
+          "url": "https://www.servicenow.com/products/now-assist-for-security-operations.html"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Now%20Assist",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=Now%20Assist",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 129,
+          "label": "Now Assist Now Learning Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Now%20Assist"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/predictive-intelligence.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/predictive-intelligence.html",
+      "title": "Predictive Intelligence - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 130,
+          "label": "Predictive Intelligence",
+          "url": "https://www.servicenow.com/products/predictive-intelligence.html"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search?q=Predictive%20Intelligence",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 131,
+          "label": "Predictive Intelligence Documentation Search",
+          "url": "https://docs.servicenow.com/search?q=Predictive%20Intelligence"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/process-mining.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/process-mining.html",
+      "title": "Process Mining - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 132,
+          "label": "Process Mining",
+          "url": "https://www.servicenow.com/products/process-mining.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/now-platform/artificial-intelligence.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/now-platform/artificial-intelligence.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 133,
+          "label": "ServiceNow AI",
+          "url": "https://www.servicenow.com/now-platform/artificial-intelligence.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/now-platform/ai-agents.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/now-platform/ai-agents.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 134,
+          "label": "ServiceNow AI Agents",
+          "url": "https://www.servicenow.com/now-platform/ai-agents.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/company/media/press-room.html?q=AI",
+      "status": 200,
+      "finalUrl": "https://newsroom.servicenow.com/press-releases/default.aspx",
+      "title": "Press Release Announcements - ServiceNow Newsroom",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 135,
+          "label": "ServiceNow AI Press Room Search",
+          "url": "https://www.servicenow.com/company/media/press-room.html?q=AI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/task-intelligence.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/task-intelligence.html",
+      "title": "Task Intelligence - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 136,
+          "label": "Task Intelligence",
+          "url": "https://www.servicenow.com/products/task-intelligence.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/virtual-agent.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/virtual-agent.html",
+      "title": "Virtual Agent – Chatbot - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 137,
+          "label": "Virtual Agent",
+          "url": "https://www.servicenow.com/products/virtual-agent.html"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search?q=Virtual%20Agent",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 138,
+          "label": "Virtual Agent Documentation Search",
+          "url": "https://docs.servicenow.com/search?q=Virtual%20Agent"
+        }
+      ]
+    },
+    {
+      "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Virtual%20Agent",
+      "status": 200,
+      "finalUrl": "https://nowlearning.servicenow.com/lxp/en/pages/lxp-search?id=search&q=Virtual%20Agent",
+      "title": "LXP Search - ServiceNow University",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 139,
+          "label": "Virtual Agent Now Learning Search",
+          "url": "https://nowlearning.servicenow.com/lxp?id=search&q=Virtual%20Agent"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/aiops.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/aiops.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 143,
+          "label": "AIOps",
+          "url": "https://www.servicenow.com/products/aiops.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/cloud-cost-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/cloud-cost-management.html",
+      "title": "Cloud Cost Management - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 144,
+          "label": "Cloud Cost Management",
+          "url": "https://www.servicenow.com/products/cloud-cost-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/cloud-observability.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/observability.html",
+      "title": "Service Observability – ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 145,
+          "label": "Cloud Observability",
+          "url": "https://www.servicenow.com/products/cloud-observability.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/cloud-operations.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/cloud-operations.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 146,
+          "label": "Cloud Operations",
+          "url": "https://www.servicenow.com/products/cloud-operations.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/cmdb.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/cmdb.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 147,
+          "label": "CMDB",
+          "url": "https://www.servicenow.com/products/cmdb.html"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search?q=CMDB",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 148,
+          "label": "CMDB Documentation Search",
+          "url": "https://docs.servicenow.com/search?q=CMDB"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/devops.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/devops-change-velocity.html",
+      "title": "DevOps Change Velocity - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 149,
+          "label": "DevOps",
+          "url": "https://www.servicenow.com/products/devops.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/devops-change-velocity.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/devops-change-velocity.html",
+      "title": "DevOps Change Velocity - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 150,
+          "label": "DevOps Change Velocity",
+          "url": "https://www.servicenow.com/products/devops-change-velocity.html"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search?q=DevOps",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 151,
+          "label": "DevOps Documentation Search",
+          "url": "https://docs.servicenow.com/search?q=DevOps"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/discovery.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/discovery.html",
+      "title": "IT Discovery – Application Dependency Mapping – ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 152,
+          "label": "Discovery",
+          "url": "https://www.servicenow.com/products/discovery.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/event-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/event-management.html",
+      "title": "Event Management - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 153,
+          "label": "Event Management",
+          "url": "https://www.servicenow.com/products/event-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/marketplace?query=servicenow&type=actions",
+      "status": 200,
+      "finalUrl": "https://github.com/marketplace?query=servicenow&type=actions",
+      "title": "Marketplace · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 154,
+          "label": "GitHub Actions Marketplace Search: ServiceNow",
+          "url": "https://github.com/marketplace?query=servicenow&type=actions"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/health-log-analytics.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/health-log-analytics.html",
+      "title": "Health Log Analytics - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 155,
+          "label": "Health Log Analytics",
+          "url": "https://www.servicenow.com/products/health-log-analytics.html"
+        }
+      ]
+    },
+    {
+      "url": "https://plugins.jenkins.io/ui/search/?query=servicenow",
+      "status": 200,
+      "finalUrl": "https://plugins.jenkins.io/ui/search/?query=servicenow",
+      "title": "Search Results | Jenkins plugin",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 156,
+          "label": "Jenkins Plugin Search: ServiceNow",
+          "url": "https://plugins.jenkins.io/ui/search/?query=servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/metric-intelligence.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/metric-intelligence.html",
+      "title": "Metric Intelligence – ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 157,
+          "label": "Metric Intelligence",
+          "url": "https://www.servicenow.com/products/metric-intelligence.html"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search?q=Cloud%20Observability",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 158,
+          "label": "Observability Documentation Search",
+          "url": "https://docs.servicenow.com/search?q=Cloud%20Observability"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/operational-technology-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/operational-technology-management.html",
+      "title": "Operational Technology Management - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 159,
+          "label": "Operational Technology Management",
+          "url": "https://www.servicenow.com/products/operational-technology-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/service-graph-connectors.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/service-graph-connectors.html",
+      "title": "Service Graph Connectors - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 160,
+          "label": "Service Graph Connectors",
+          "url": "https://www.servicenow.com/products/service-graph-connectors.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/service-mapping.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/service-mapping.html",
+      "title": "Service Mapping - IT Application Organization - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 161,
+          "label": "Service Mapping",
+          "url": "https://www.servicenow.com/products/service-mapping.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/site-reliability-operations.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/service-reliability-management.html",
+      "title": "Service Reliability Management – Site Reliability - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 162,
+          "label": "Site Reliability Operations",
+          "url": "https://www.servicenow.com/products/site-reliability-operations.html"
+        }
+      ]
+    },
+    {
+      "url": "https://galaxy.ansible.com/ui/repo/published/servicenow/itsm/",
+      "status": 200,
+      "finalUrl": "https://galaxy.ansible.com/ui/repo/published/servicenow/itsm/",
+      "title": "Ansible Galaxy",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 166,
+          "label": "Ansible ServiceNow ITSM Collection",
+          "url": "https://galaxy.ansible.com/ui/repo/published/servicenow/itsm/"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ansible-collections/servicenow.itsm",
+      "status": 200,
+      "finalUrl": "https://github.com/ansible-collections/servicenow.itsm",
+      "title": "GitHub - ansible-collections/servicenow.itsm: Ansible Collection for ServiceNow ITSM · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 167,
+          "label": "Ansible ServiceNow ITSM GitHub",
+          "url": "https://github.com/ansible-collections/servicenow.itsm"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/automation-center.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/automation-center.html",
+      "title": "Automation Center - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 168,
+          "label": "Automation Center",
+          "url": "https://www.servicenow.com/products/automation-center.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/automation-engine.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/automation-engine.html",
+      "title": "Automation Engine - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 169,
+          "label": "Automation Engine",
+          "url": "https://www.servicenow.com/products/automation-engine.html"
+        }
+      ]
+    },
+    {
+      "url": "https://hub.docker.com/search?q=servicenow",
+      "status": 200,
+      "finalUrl": "https://hub.docker.com/search?q=servicenow",
+      "title": "Explore Docker&#x27;s Container Image Repository | Docker Hub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 170,
+          "label": "Docker Hub Search: ServiceNow",
+          "url": "https://hub.docker.com/search?q=servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/integration-hub.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/integration-hub.html",
+      "title": "Integration Hub - ServiceNow AI Platform - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 171,
+          "label": "IntegrationHub",
+          "url": "https://www.servicenow.com/products/integration-hub.html"
+        }
+      ]
+    },
+    {
+      "url": "https://store.servicenow.com/sn_appstore_store.do#!/store/search?listingtype=allintegrations",
+      "status": 200,
+      "finalUrl": "https://store.servicenow.com/sn_appstore_store.do",
+      "title": "",
+      "fragment": "#!/store/search?listingtype=allintegrations",
+      "outcome": "route-unverified",
+      "note": "HTTP fragments are not sent to the server; requires browser review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 172,
+          "label": "IntegrationHub Spokes Store Search",
+          "url": "https://store.servicenow.com/sn_appstore_store.do#!/store/search?listingtype=allintegrations"
+        }
+      ]
+    },
+    {
+      "url": "https://central.sonatype.com/search?q=servicenow",
+      "status": 200,
+      "finalUrl": "https://central.sonatype.com/search?q=servicenow",
+      "title": "Maven Central: Search",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 173,
+          "label": "Maven Central Search: ServiceNow",
+          "url": "https://central.sonatype.com/search?q=servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.postman.com/search?q=servicenow",
+      "status": 200,
+      "finalUrl": "https://www.postman.com/search?q=servicenow",
+      "title": "Postman",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 174,
+          "label": "Postman Public API Network Search: ServiceNow",
+          "url": "https://www.postman.com/search?q=servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.powershellgallery.com/packages?q=servicenow",
+      "status": 200,
+      "finalUrl": "https://www.powershellgallery.com/packages?q=servicenow",
+      "title": "PowerShell Gallery | Packages matching servicenow Displaying results 1 to 14 of 14",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 175,
+          "label": "PowerShell Gallery Search: ServiceNow",
+          "url": "https://www.powershellgallery.com/packages?q=servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/robotic-process-automation.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/robotic-process-automation.html",
+      "title": "Robotic Process Automation (RPA) - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 176,
+          "label": "Robotic Process Automation",
+          "url": "https://www.servicenow.com/products/robotic-process-automation.html"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topics/servicenow-api",
+      "status": 200,
+      "finalUrl": "https://github.com/topics/servicenow-api",
+      "title": "servicenow-api · GitHub Topics · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 177,
+          "label": "ServiceNow API GitHub Topic",
+          "url": "https://github.com/topics/servicenow-api"
+        }
+      ]
+    },
+    {
+      "url": "https://www.npmjs.com/search?q=servicenow",
+      "status": 403,
+      "finalUrl": "https://www.npmjs.com/search?q=servicenow",
+      "title": "Just a moment...",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 178,
+          "label": "ServiceNow npm Search",
+          "url": "https://www.npmjs.com/search?q=servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.google.com/search?q=site%3Agithub.com+servicenow+openapi",
+      "status": 200,
+      "finalUrl": "https://www.google.com/search?q=site:github.com+servicenow+openapi&ucbcb=1",
+      "title": "Google Search",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 179,
+          "label": "ServiceNow OpenAPI GitHub Search",
+          "url": "https://www.google.com/search?q=site%3Agithub.com+servicenow+openapi"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.servicenow.com/search?q=REST%20API",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/docs/",
+      "title": "Docs | ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 180,
+          "label": "ServiceNow REST APIs Documentation Search",
+          "url": "https://docs.servicenow.com/search?q=REST%20API"
+        }
+      ]
+    },
+    {
+      "url": "https://registry.terraform.io/search/providers?q=servicenow",
+      "status": 200,
+      "finalUrl": "https://registry.terraform.io/search/providers?q=servicenow",
+      "title": "Terraform Registry",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 181,
+          "label": "Terraform Registry Search: ServiceNow",
+          "url": "https://registry.terraform.io/search/providers?q=servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNowDevProgram/app-engine-examples",
+      "status": 404,
+      "finalUrl": "https://github.com/ServiceNowDevProgram/app-engine-examples",
+      "title": "Page not found · GitHub · GitHub",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 185,
+          "label": "App Engine Examples",
+          "url": "https://github.com/ServiceNowDevProgram/app-engine-examples"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNowDevProgram/api-samples",
+      "status": 404,
+      "finalUrl": "https://github.com/ServiceNowDevProgram/api-samples",
+      "title": "Page not found · GitHub · GitHub",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 186,
+          "label": "API Samples",
+          "url": "https://github.com/ServiceNowDevProgram/api-samples"
+        }
+      ]
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/sn-utils-tools-for-servic/cegbonidlnkdlmfjpaocfghhgjmgigoc",
+      "status": 200,
+      "finalUrl": "https://chromewebstore.google.com/detail/empty-title/cegbonidlnkdlmfjpaocfghhgjmgigoc?ucbcb=1",
+      "title": "Chrome Web Store",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 187,
+          "label": "Chrome Web Store: SN Utils",
+          "url": "https://chromewebstore.google.com/detail/sn-utils-tools-for-servic/cegbonidlnkdlmfjpaocfghhgjmgigoc"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNowDevProgram/cicd-example",
+      "status": 404,
+      "finalUrl": "https://github.com/ServiceNowDevProgram/cicd-example",
+      "title": "Page not found · GitHub · GitHub",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 188,
+          "label": "CICD Example",
+          "url": "https://github.com/ServiceNowDevProgram/cicd-example"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNowDevProgram/devops-integrations",
+      "status": 404,
+      "finalUrl": "https://github.com/ServiceNowDevProgram/devops-integrations",
+      "title": "Page not found · GitHub · GitHub",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 189,
+          "label": "DevOps Integrations",
+          "url": "https://github.com/ServiceNowDevProgram/devops-integrations"
+        }
+      ]
+    },
+    {
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/sn-utils/",
+      "status": 404,
+      "finalUrl": "https://addons.mozilla.org/en-US/firefox/addon/sn-utils/",
+      "title": "Add-ons for Firefox (en-US)",
+      "fragment": "",
+      "outcome": "http-error",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 190,
+          "label": "Firefox Add-ons: SN Utils",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/sn-utils/"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topics/servicenow",
+      "status": 200,
+      "finalUrl": "https://github.com/topics/servicenow",
+      "title": "servicenow · GitHub Topics · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 191,
+          "label": "GitHub Topic: ServiceNow",
+          "url": "https://github.com/topics/servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topics/servicenow-atf",
+      "status": 200,
+      "finalUrl": "https://github.com/topics/servicenow-atf",
+      "title": "servicenow-atf · GitHub Topics · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 192,
+          "label": "GitHub Topic: ServiceNow ATF",
+          "url": "https://github.com/topics/servicenow-atf"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topics/servicenow-cli",
+      "status": 200,
+      "finalUrl": "https://github.com/topics/servicenow-cli",
+      "title": "servicenow-cli · GitHub Topics · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 193,
+          "label": "GitHub Topic: ServiceNow CLI",
+          "url": "https://github.com/topics/servicenow-cli"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topics/servicenow-devops",
+      "status": 200,
+      "finalUrl": "https://github.com/topics/servicenow-devops",
+      "title": "servicenow-devops · GitHub Topics · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 194,
+          "label": "GitHub Topic: ServiceNow DevOps",
+          "url": "https://github.com/topics/servicenow-devops"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topics/servicenow-development",
+      "status": 200,
+      "finalUrl": "https://github.com/topics/servicenow-development",
+      "title": "servicenow-development · GitHub Topics · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 195,
+          "label": "GitHub Topic: ServiceNow Development",
+          "url": "https://github.com/topics/servicenow-development"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topics/servicenow-scripts",
+      "status": 200,
+      "finalUrl": "https://github.com/topics/servicenow-scripts",
+      "title": "servicenow-scripts · GitHub Topics · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 196,
+          "label": "GitHub Topic: ServiceNow Scripts",
+          "url": "https://github.com/topics/servicenow-scripts"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topics/servicenow-terraform",
+      "status": 200,
+      "finalUrl": "https://github.com/topics/servicenow-terraform",
+      "title": "servicenow-terraform · GitHub Topics · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 197,
+          "label": "GitHub Topic: ServiceNow Terraform",
+          "url": "https://github.com/topics/servicenow-terraform"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/topics/servicenow-workflow",
+      "status": 200,
+      "finalUrl": "https://github.com/topics/servicenow-workflow",
+      "title": "servicenow-workflow · GitHub Topics · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 198,
+          "label": "GitHub Topic: ServiceNow Workflow",
+          "url": "https://github.com/topics/servicenow-workflow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/arnoudkooi/SN-Scriptsync",
+      "status": 200,
+      "finalUrl": "https://github.com/arnoudkooi/SN-Scriptsync",
+      "title": "GitHub - arnoudkooi/sn-scriptsync: Use sn-scriptsync in combination with SN Utils to be able to code in VS Code, including all benefits of a full fledged code editor · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 199,
+          "label": "SN Scriptsync",
+          "url": "https://github.com/arnoudkooi/SN-Scriptsync"
+        }
+      ]
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=arnoudkooicom.sn-scriptsync",
+      "status": 200,
+      "finalUrl": "https://marketplace.visualstudio.com/items?itemName=arnoudkooicom.sn-scriptsync",
+      "title": "sn-scriptsync - Visual Studio Marketplace",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 200,
+          "label": "SN Scriptsync VS Code Extension",
+          "url": "https://marketplace.visualstudio.com/items?itemName=arnoudkooicom.sn-scriptsync"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/arnoudkooi/ServiceNow-Utils",
+      "status": 200,
+      "finalUrl": "https://github.com/arnoudkooi/SN-Utils",
+      "title": "GitHub - arnoudkooi/SN-Utils: Browser Extension to enhance experience and productivity in ServiceNow · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 201,
+          "label": "SN Utils Browser Extension",
+          "url": "https://github.com/arnoudkooi/ServiceNow-Utils"
+        }
+      ]
+    },
+    {
+      "url": "https://www.arnoudkooi.com/servicenow-utils/",
+      "status": 404,
+      "finalUrl": "https://www.arnoudkooi.com/servicenow-utils/",
+      "title": "Page not found &#8211; arnoudkooi.com",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 202,
+          "label": "SN Utils Website",
+          "url": "https://www.arnoudkooi.com/servicenow-utils/"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNow",
+      "status": 200,
+      "finalUrl": "https://github.com/ServiceNow",
+      "title": "ServiceNow · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 203,
+          "label": "ServiceNow GitHub Organization",
+          "url": "https://github.com/ServiceNow"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNow/terraform-provider-servicenow",
+      "status": 404,
+      "finalUrl": "https://github.com/ServiceNow/terraform-provider-servicenow",
+      "title": "Page not found · GitHub · GitHub",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 204,
+          "label": "ServiceNow Terraform Provider",
+          "url": "https://github.com/ServiceNow/terraform-provider-servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://registry.terraform.io/providers/ServiceNow/servicenow/latest",
+      "status": 200,
+      "finalUrl": "https://registry.terraform.io/providers/ServiceNow/servicenow/latest",
+      "title": "Terraform Registry",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 205,
+          "label": "ServiceNow Terraform Provider Registry",
+          "url": "https://registry.terraform.io/providers/ServiceNow/servicenow/latest"
+        }
+      ]
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=ServiceNow.now-vscode",
+      "status": 200,
+      "finalUrl": "https://marketplace.visualstudio.com/items?itemName=ServiceNow.now-vscode",
+      "title": "ServiceNow® Extension for VS Code - Visual Studio Marketplace",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 206,
+          "label": "ServiceNow VS Code Extension",
+          "url": "https://marketplace.visualstudio.com/items?itemName=ServiceNow.now-vscode"
+        }
+      ]
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/search?term=ServiceNow&target=VSCode&category=All%20categories&sortBy=Relevance",
+      "status": 200,
+      "finalUrl": "https://marketplace.visualstudio.com/search?term=ServiceNow&target=VSCode&category=All%20categories&sortBy=Relevance",
+      "title": "Search results - ServiceNow | Visual Studio Code , Visual Studio Marketplace",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 207,
+          "label": "ServiceNow VS Code Marketplace Search",
+          "url": "https://marketplace.visualstudio.com/search?term=ServiceNow&target=VSCode&category=All%20categories&sortBy=Relevance"
+        }
+      ]
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/search?term=servicenow%20snippets&target=VSCode&category=All%20categories&sortBy=Relevance",
+      "status": 200,
+      "finalUrl": "https://marketplace.visualstudio.com/search?term=servicenow%20snippets&target=VSCode&category=All%20categories&sortBy=Relevance",
+      "title": "Search results - servicenow snippets | Visual Studio Code , Visual Studio Marketplace",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 208,
+          "label": "ServiceNow VS Code Snippets Search",
+          "url": "https://marketplace.visualstudio.com/search?term=servicenow%20snippets&target=VSCode&category=All%20categories&sortBy=Relevance"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNowDevProgram/scripted-rest-api-examples",
+      "status": 404,
+      "finalUrl": "https://github.com/ServiceNowDevProgram/scripted-rest-api-examples",
+      "title": "Page not found · GitHub · GitHub",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 209,
+          "label": "Scripted REST API Examples",
+          "url": "https://github.com/ServiceNowDevProgram/scripted-rest-api-examples"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/jneale/Xplore",
+      "status": 200,
+      "finalUrl": "https://github.com/jneale/Xplore",
+      "title": "GitHub - jneale/Xplore: Xplore: Developer Toolkit for ServiceNow · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 210,
+          "label": "Xplore",
+          "url": "https://github.com/jneale/Xplore"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNow/PySNC",
+      "status": 200,
+      "finalUrl": "https://github.com/ServiceNow/PySNC",
+      "title": "GitHub - ServiceNow/PySNC: Python API for ServiceNow · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 211,
+          "label": "PySNC",
+          "url": "https://github.com/ServiceNow/PySNC"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/app-engine.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/app-engine.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 215,
+          "label": "App Engine",
+          "url": "https://www.servicenow.com/products/app-engine.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/customer-service-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/customer-service-management.html",
+      "title": "Customer Service Management (CSM) - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 216,
+          "label": "Customer Service Management",
+          "url": "https://www.servicenow.com/products/customer-service-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/field-service-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/field-service-management.html",
+      "title": "Field Service Management (FSM) - Service Software - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 217,
+          "label": "Field Service Management",
+          "url": "https://www.servicenow.com/products/field-service-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/financial-services-operations.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products-by-category.html",
+      "title": "Products by Category - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 218,
+          "label": "Financial Services Operations",
+          "url": "https://www.servicenow.com/products/financial-services-operations.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/governance-risk-and-compliance.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/governance-risk-and-compliance.html",
+      "title": "Governance, Risk, and Compliance (GRC)",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 219,
+          "label": "Governance, Risk, and Compliance",
+          "url": "https://www.servicenow.com/products/governance-risk-and-compliance.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/healthcare-life-sciences-service-management.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/healthcare-life-sciences-service-management.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 220,
+          "label": "Healthcare and Life Sciences Service Management",
+          "url": "https://www.servicenow.com/products/healthcare-life-sciences-service-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/hr-service-delivery.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/hr-service-delivery.html",
+      "title": "HR Service Delivery - HR Management - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 221,
+          "label": "HR Service Delivery",
+          "url": "https://www.servicenow.com/products/hr-service-delivery.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/integrated-risk-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/integrated-risk-management.html",
+      "title": "Integrated Risk Management - IRM - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 222,
+          "label": "Integrated Risk Management",
+          "url": "https://www.servicenow.com/products/integrated-risk-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/it-asset-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/it-asset-management.html",
+      "title": "IT Asset Management - ITAM - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 223,
+          "label": "IT Asset Management",
+          "url": "https://www.servicenow.com/products/it-asset-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/it-operations-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/it-operations-management.html",
+      "title": "ITOM - Enterprise IT Operations Management - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 224,
+          "label": "IT Operations Management",
+          "url": "https://www.servicenow.com/products/it-operations-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/itsm.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/itsm.html",
+      "title": "IT Service Management (ITSM) - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 225,
+          "label": "IT Service Management",
+          "url": "https://www.servicenow.com/products/itsm.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/knowledge-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/platform/knowledge-management.html",
+      "title": "Knowledge Center - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 226,
+          "label": "Knowledge Management",
+          "url": "https://www.servicenow.com/products/knowledge-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/performance-analytics.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/performance-analytics.html",
+      "title": "Performance Analytics - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 227,
+          "label": "Performance Analytics",
+          "url": "https://www.servicenow.com/products/performance-analytics.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/public-sector-digital-services.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/public-sector-digital-services.html",
+      "title": "Public Sector Digital Services - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 228,
+          "label": "Public Sector Digital Services",
+          "url": "https://www.servicenow.com/products/public-sector-digital-services.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/security-operations.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/security-operations.html",
+      "title": "Security Operations (SecOps) - Enterprise Security - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 229,
+          "label": "Security Operations",
+          "url": "https://www.servicenow.com/products/security-operations.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/service-catalog.html",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/products/service-catalog.html",
+      "title": "Page not found | ServiceNow",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 230,
+          "label": "Service Catalog",
+          "url": "https://www.servicenow.com/products/service-catalog.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/telecommunications-service-management.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/telecommunications-service-management.html",
+      "title": "Telecommunications Service Management – TSM – ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 231,
+          "label": "Telecommunications Service Management",
+          "url": "https://www.servicenow.com/products/telecommunications-service-management.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/workforce-optimization.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/workforce-optimization.html",
+      "title": "Workforce Optimization - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 232,
+          "label": "Workforce Optimization",
+          "url": "https://www.servicenow.com/products/workforce-optimization.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/products/workplace-service-delivery.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/products/workplace-service-delivery.html",
+      "title": "Workplace Service Delivery - Facility Management Software - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 233,
+          "label": "Workplace Service Delivery",
+          "url": "https://www.servicenow.com/products/workplace-service-delivery.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/ai-intelligence-forum/bd-p/ai-intelligence-forum",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/ai-intelligence-forum/bd-p/ai-intelligence-forum",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 237,
+          "label": "AI Intelligence Forum",
+          "url": "https://www.servicenow.com/community/ai-intelligence-forum/bd-p/ai-intelligence-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/app-engine-forum/bd-p/app-engine-forum",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/app-engine-forum/bd-p/app-engine-forum",
+      "title": "App Engine forum - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 238,
+          "label": "App Engine Forum",
+          "url": "https://www.servicenow.com/community/app-engine-forum/bd-p/app-engine-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/articles/ct-p/articles",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/articles/ct-p/articles",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 239,
+          "label": "Community Articles",
+          "url": "https://www.servicenow.com/community/articles/ct-p/articles"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/blogs/ct-p/blogs",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/blogs/ct-p/blogs",
+      "title": "Blogs - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 240,
+          "label": "Community Blogs",
+          "url": "https://www.servicenow.com/community/blogs/ct-p/blogs"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/events/ct-p/events",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/events/ct-p/events",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 241,
+          "label": "Community Events",
+          "url": "https://www.servicenow.com/community/events/ct-p/events"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/forums/ct-p/forums",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/forums/ct-p/forums",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 242,
+          "label": "Community Forums",
+          "url": "https://www.servicenow.com/community/forums/ct-p/forums"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/developer-forum/bd-p/developer-forum",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/developer-forum/bd-p/developer-forum",
+      "title": "Developer forum - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 243,
+          "label": "Developer Forum",
+          "url": "https://www.servicenow.com/community/developer-forum/bd-p/developer-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/itam-forum/bd-p/itam-forum",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/itam-forum/bd-p/itam-forum",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 244,
+          "label": "ITAM Forum",
+          "url": "https://www.servicenow.com/community/itam-forum/bd-p/itam-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/itom-forum/bd-p/itom-forum",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/itom-forum/bd-p/itom-forum",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 245,
+          "label": "ITOM Forum",
+          "url": "https://www.servicenow.com/community/itom-forum/bd-p/itom-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/itsm-forum/bd-p/itsm-forum",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/itsm-forum/bd-p/itsm-forum",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 246,
+          "label": "ITSM Forum",
+          "url": "https://www.servicenow.com/community/itsm-forum/bd-p/itsm-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://disboard.org/servers/tag/servicenow",
+      "status": 403,
+      "finalUrl": "https://disboard.org/servers/tag/servicenow",
+      "title": "Just a moment...",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 247,
+          "label": "ServiceNow Discord Directory Search",
+          "url": "https://disboard.org/servers/tag/servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/community-programs-blog/servicenow-mvp-program/ba-p/2332432",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/italy-snug/scansione-barcode-qrcode-con-servicenow-mobile-app/ba-p/2332432",
+      "title": "Scansione Barcode QRCode con ServiceNow Mobile App - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 248,
+          "label": "ServiceNow MVP Program",
+          "url": "https://www.servicenow.com/community/community-programs-blog/servicenow-mvp-program/ba-p/2332432"
+        }
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/servicenow/",
+      "status": 200,
+      "finalUrl": "https://www.reddit.com/r/servicenow/",
+      "title": "Reddit",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 249,
+          "label": "ServiceNow Reddit",
+          "url": "https://www.reddit.com/r/servicenow/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/community-programs-blog/servicenow-rising-star-program/ba-p/2332435",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/contentarchivals/contentarchivedpage/message-uid/2332435",
+      "title": "Archived - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 250,
+          "label": "ServiceNow Rising Star Program",
+          "url": "https://www.servicenow.com/community/community-programs-blog/servicenow-rising-star-program/ba-p/2332435"
+        }
+      ]
+    },
+    {
+      "url": "https://stackoverflow.com/questions/tagged/servicenow",
+      "status": 403,
+      "finalUrl": "https://stackoverflow.com/questions/tagged/servicenow",
+      "title": "Just a moment...",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 251,
+          "label": "ServiceNow Stack Overflow Tag",
+          "url": "https://stackoverflow.com/questions/tagged/servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/user-groups/ct-p/user-groups",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/user-groups/ct-p/user-groups",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 252,
+          "label": "ServiceNow User Groups",
+          "url": "https://www.servicenow.com/community/user-groups/ct-p/user-groups"
+        }
+      ]
+    },
+    {
+      "url": "https://sndevs.com/",
+      "status": 200,
+      "finalUrl": "https://linktr.ee/sndevs",
+      "title": "sndevs Official: Twitter | Linktree",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 253,
+          "label": "SNDevs",
+          "url": "https://sndevs.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://join.slack.com/t/sndevs/shared_invite/zt-2wcse33vl-hTleAK6_jeYwdOApEwnQVg",
+      "status": 403,
+      "finalUrl": "https://sndevs.slack.com/join/shared_invite/zt-2wcse33vl-hTleAK6_jeYwdOApEwnQVg",
+      "title": "Slack",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 254,
+          "label": "SNDevs Slack",
+          "url": "https://join.slack.com/t/sndevs/shared_invite/zt-2wcse33vl-hTleAK6_jeYwdOApEwnQVg"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/spm-forum/bd-p/spm-forum",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/spm-forum/bd-p/spm-forum",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 255,
+          "label": "SPM Forum",
+          "url": "https://www.servicenow.com/community/spm-forum/bd-p/spm-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/virtual-agent-nlu-forum/bd-p/virtual-agent-nlu-forum",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/virtual-agent-nlu-forum/bd-p/virtual-agent-nlu-forum",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 256,
+          "label": "Virtual Agent and NLU Forum",
+          "url": "https://www.servicenow.com/community/virtual-agent-nlu-forum/bd-p/virtual-agent-nlu-forum"
+        }
+      ]
+    },
+    {
+      "url": "https://www.arnoudkooi.com/",
+      "status": 200,
+      "finalUrl": "https://www.arnoudkooi.com/",
+      "title": "arnoudkooi.com",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 260,
+          "label": "Arnoud Kooi",
+          "url": "https://www.arnoudkooi.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/arnoudkooi",
+      "status": 200,
+      "finalUrl": "https://github.com/arnoudkooi",
+      "title": "arnoudkooi (arnoudkooi) · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 261,
+          "label": "Arnoud Kooi GitHub",
+          "url": "https://github.com/arnoudkooi"
+        }
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/earlduque/",
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/in/earlduque",
+      "title": "Earl Duque - ServiceNow | LinkedIn",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 262,
+          "label": "Earl Duque LinkedIn",
+          "url": "https://www.linkedin.com/in/earlduque/"
+        }
+      ]
+    },
+    {
+      "url": "https://sn.jace.pro/",
+      "status": 200,
+      "finalUrl": "https://sn.jace.pro/",
+      "title": "Unofficial ServiceNow Docs",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 263,
+          "label": "Jace Benson",
+          "url": "https://sn.jace.pro/"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/jacebenson",
+      "status": 200,
+      "finalUrl": "https://github.com/jacebenson",
+      "title": "jacebenson (Jace) · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 264,
+          "label": "Jace Benson GitHub",
+          "url": "https://github.com/jacebenson"
+        }
+      ]
+    },
+    {
+      "url": "https://sn.jace.pro/docs/",
+      "status": 200,
+      "finalUrl": "https://sn.jace.pro/docs/",
+      "title": "Docs",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 265,
+          "label": "Jace Benson ServiceNow Docs",
+          "url": "https://sn.jace.pro/docs/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/robertfedoruk/",
+      "status": 999,
+      "finalUrl": "https://www.linkedin.com/in/robertfedoruk",
+      "title": "",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 266,
+          "label": "Robert Fedoruk: The Duke",
+          "url": "https://www.linkedin.com/in/robertfedoruk/"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/thisnameissoclever",
+      "status": 200,
+      "finalUrl": "https://github.com/thisnameissoclever",
+      "title": "thisnameissoclever (Tim Woodruff) · GitHub",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 267,
+          "label": "Tim Woodruff GitHub",
+          "url": "https://github.com/thisnameissoclever"
+        }
+      ]
+    },
+    {
+      "url": "https://womennow.blog/",
+      "status": 200,
+      "finalUrl": "https://www.womennow.blog/",
+      "title": "WomenNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 268,
+          "label": "WomenNow",
+          "url": "https://womennow.blog/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/search/?q=servicenow",
+      "status": 200,
+      "finalUrl": "https://www.datadoghq.com/blog/search/?q=servicenow",
+      "title": "Blog Search | Datadog",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 272,
+          "label": "Datadog ServiceNow Blog Search",
+          "url": "https://www.datadoghq.com/blog/search/?q=servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dynatrace.com/news/blog/?s=ServiceNow",
+      "status": 200,
+      "finalUrl": "https://www.dynatrace.com/news/blog/?s=ServiceNow",
+      "title": "Dynatrace Blog | Dynatrace news",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 273,
+          "label": "Dynatrace ServiceNow Blog Search",
+          "url": "https://www.dynatrace.com/news/blog/?s=ServiceNow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/training-and-certifications/knowledge-sources-to-go/ta-p/2310130",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/training-and-certifications/knowledge-sources-to-go/ta-p/2310130",
+      "title": "Knowledge Sources to Go - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 274,
+          "label": "Knowledge Sources To Go",
+          "url": "https://www.servicenow.com/community/training-and-certifications/knowledge-sources-to-go/ta-p/2310130"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/developer-blog/400-articles-blogs-videos-podcasts-share-projects-experiences/ba-p/2292127",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/developer-blog/456-articles-blogs-videos-podcasts-share-projects-experiences/ba-p/2292127",
+      "title": "~456 Articles, Blogs, Videos, Podcasts, Share proj... - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 275,
+          "label": "Mark Roethof Content Collection",
+          "url": "https://www.servicenow.com/community/developer-blog/400-articles-blogs-videos-podcasts-share-projects-experiences/ba-p/2292127"
+        }
+      ]
+    },
+    {
+      "url": "https://www.snnotebook.com/",
+      "status": 200,
+      "finalUrl": "https://www.snnotebook.com/",
+      "title": "Matt’s ServiceNow Notebook - Insights, Tips, and Tricks for ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 276,
+          "label": "Matt's ServiceNow Notebook",
+          "url": "https://www.snnotebook.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.newrocket.com/blog",
+      "status": 200,
+      "finalUrl": "https://www.newrocket.com/resources",
+      "title": "NewRocket Resources, Events, and News",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 277,
+          "label": "NewRocket Blog",
+          "url": "https://www.newrocket.com/blog"
+        }
+      ]
+    },
+    {
+      "url": "https://www.nexthink.com/blog",
+      "status": 200,
+      "finalUrl": "https://nexthink.com/en/blog",
+      "title": "Blog | Nexthink",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 278,
+          "label": "Nexthink Blog",
+          "url": "https://www.nexthink.com/blog"
+        }
+      ]
+    },
+    {
+      "url": "https://pathwayscg.com/blog/",
+      "status": 200,
+      "finalUrl": "https://pathwayscg.com/blog/",
+      "title": "Blog | Pathways Consulting Group",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 279,
+          "label": "Pathways Consulting Blog",
+          "url": "https://pathwayscg.com/blog/"
+        }
+      ]
+    },
+    {
+      "url": "https://plat4mation.com/blog/",
+      "status": 200,
+      "finalUrl": "https://plat4mation.com/blog/",
+      "title": "Check our latest company news and insights from our experts - Plat4mation",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 280,
+          "label": "Plat4mation Blog",
+          "url": "https://plat4mation.com/blog/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/servicenow-ai-platform-articles/robert-fedoruk-s-servicenow-content-megathread-over-200/ta-p/2399362",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/servicenow-ai-platform-articles/robert-fedoruk-s-servicenow-content-megathread-over-200/ta-p/2399362",
+      "title": "Robert Fedoruk's ServiceNow Content Megathread (ov... - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 281,
+          "label": "Robert Fedoruk ServiceNow Content Megathread",
+          "url": "https://www.servicenow.com/community/servicenow-ai-platform-articles/robert-fedoruk-s-servicenow-content-megathread-over-200/ta-p/2399362"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/blogs.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/workflow.html",
+      "title": "Workflow® - Insights for Corporate Leaders",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 282,
+          "label": "ServiceNow Blog",
+          "url": "https://www.servicenow.com/blogs.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/developer-blog/bg-p/developer-blog",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/community/developer-blog/bg-p/developer-blog",
+      "title": "Developer blog - ServiceNow Community",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 283,
+          "label": "ServiceNow Community Developer Blog",
+          "url": "https://www.servicenow.com/community/developer-blog/bg-p/developer-blog"
+        }
+      ]
+    },
+    {
+      "url": "https://newsroom.servicenow.com/overview/default.aspx",
+      "status": 403,
+      "finalUrl": "https://newsroom.servicenow.com/overview/default.aspx",
+      "title": "Just a moment...",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 284,
+          "label": "ServiceNow Newsroom",
+          "url": "https://newsroom.servicenow.com/overview/default.aspx"
+        }
+      ]
+    },
+    {
+      "url": "https://servicenowguru.com/",
+      "status": 403,
+      "finalUrl": "https://servicenowguru.com/",
+      "title": "403 - Forbidden",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 285,
+          "label": "ServiceNowGuru",
+          "url": "https://servicenowguru.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://snprotips.com/",
+      "status": 200,
+      "finalUrl": "https://snprotips.com/",
+      "title": "SN Pro Tips - ServiceNow Developer Tips, Tools, Tutorials, Scripting Examples, and General Learning",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 286,
+          "label": "SN Pro Tips",
+          "url": "https://snprotips.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.snowycode.com/",
+      "status": 200,
+      "finalUrl": "https://blog.snowycode.com/",
+      "title": "Blog | Snowycode",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 287,
+          "label": "Snowycode",
+          "url": "https://blog.snowycode.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.spoc.eu/blog/",
+      "status": 200,
+      "finalUrl": "https://www.spoc.eu/",
+      "title": "SPOC - Future-Ready Workflows Powered by ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 288,
+          "label": "SPOC Blog",
+          "url": "https://www.spoc.eu/blog/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.splunk.com/en_us/blog/search.html?q=servicenow",
+      "status": 200,
+      "finalUrl": "https://www.splunk.com/en_us/search.html?q=servicenow",
+      "title": "Search | Splunk",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 289,
+          "label": "Splunk ServiceNow Blog Search",
+          "url": "https://www.splunk.com/en_us/blog/search.html?q=servicenow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.thecloudpeople.com/blog",
+      "status": 200,
+      "finalUrl": "https://www.thecloudpeople.com/blog",
+      "title": "Blog – The Cloud People",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 290,
+          "label": "The Cloud People Blog",
+          "url": "https://www.thecloudpeople.com/blog"
+        }
+      ]
+    },
+    {
+      "url": "https://thesnnerd.com/",
+      "status": null,
+      "finalUrl": "",
+      "title": "",
+      "fragment": "",
+      "outcome": "request-error",
+      "note": "fetch failed: ENOTFOUND",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 291,
+          "label": "The SN Nerd",
+          "url": "https://thesnnerd.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://snwizard.com/",
+      "status": 200,
+      "finalUrl": "https://snwizard.com/",
+      "title": "Eric's Blog",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 292,
+          "label": "The ServiceNow Wizard",
+          "url": "https://snwizard.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@BasicoServiceNowLearning",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/@BasicoServiceNowLearning?cbrd=1&ucbcb=1",
+      "title": "Basico ServiceNow Learning - YouTube",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 296,
+          "label": "Basico ServiceNow Learning",
+          "url": "https://www.youtube.com/@BasicoServiceNowLearning"
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@ChuckTomasi",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/@ChuckTomasi?cbrd=1&ucbcb=1",
+      "title": "Chuck Tomasi - YouTube",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 297,
+          "label": "Chuck Tomasi",
+          "url": "https://www.youtube.com/@ChuckTomasi"
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@ServiceNow",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/@ServiceNow?cbrd=1&ucbcb=1",
+      "title": "ServiceNow - YouTube",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 298,
+          "label": "ServiceNow",
+          "url": "https://www.youtube.com/@ServiceNow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@ServiceNowCommunity",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/@ServiceNowCommunity?cbrd=1&ucbcb=1",
+      "title": "ServiceNow Community - YouTube",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 299,
+          "label": "ServiceNow Community",
+          "url": "https://www.youtube.com/@ServiceNowCommunity"
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@ServiceNowDevProgram",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/@ServiceNowDevProgram?cbrd=1&ucbcb=1",
+      "title": "ServiceNow Dev Program - YouTube",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 300,
+          "label": "ServiceNow Developer Program",
+          "url": "https://www.youtube.com/@ServiceNowDevProgram"
+        }
+      ]
+    },
+    {
+      "url": "https://podcasts.apple.com/search?term=ServiceNow",
+      "status": 200,
+      "finalUrl": "https://podcasts.apple.com/us/search?term=ServiceNow",
+      "title": "",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 304,
+          "label": "Apple Podcasts Search: ServiceNow",
+          "url": "https://podcasts.apple.com/search?term=ServiceNow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/podcasts/ct-p/podcasts",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/podcasts/ct-p/podcasts",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 305,
+          "label": "ServiceNow Community Podcasts",
+          "url": "https://www.servicenow.com/community/podcasts/ct-p/podcasts"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/developer-podcast/bg-p/developer-podcast",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/developer-podcast/bg-p/developer-podcast",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 306,
+          "label": "ServiceNow TechBytes Podcast",
+          "url": "https://www.servicenow.com/community/developer-podcast/bg-p/developer-podcast"
+        }
+      ]
+    },
+    {
+      "url": "https://open.spotify.com/search/servicenow/podcasts",
+      "status": 200,
+      "finalUrl": "https://open.spotify.com/search/servicenow/podcasts",
+      "title": "Search | Spotify",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 307,
+          "label": "Spotify Podcast Search: ServiceNow",
+          "url": "https://open.spotify.com/search/servicenow/podcasts"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/community/community-live/ct-p/community-live",
+      "status": 404,
+      "finalUrl": "https://www.servicenow.com/community/community-live/ct-p/community-live",
+      "title": "Node was not found - ServiceNow Community",
+      "fragment": "",
+      "outcome": "broken-content",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 311,
+          "label": "Community Live",
+          "url": "https://www.servicenow.com/community/community-live/ct-p/community-live"
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@ServiceNowDevProgram/search?query=CreatorCon",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/@ServiceNowDevProgram/search?query=CreatorCon&cbrd=1&ucbcb=1",
+      "title": "ServiceNow Dev Program - YouTube",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 312,
+          "label": "CreatorCon YouTube Search",
+          "url": "https://www.youtube.com/@ServiceNowDevProgram/search?query=CreatorCon"
+        }
+      ]
+    },
+    {
+      "url": "https://www.meetup.com/find/?keywords=ServiceNow",
+      "status": 200,
+      "finalUrl": "https://www.meetup.com/find/?keywords=ServiceNow",
+      "title": "Find Events &amp; Groups | Meetup",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 313,
+          "label": "Developer Meetups Search",
+          "url": "https://www.meetup.com/find/?keywords=ServiceNow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/events/knowledge.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/events/knowledge.html",
+      "title": "ServiceNow Knowledge",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 314,
+          "label": "Knowledge",
+          "url": "https://www.servicenow.com/events/knowledge.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@ServiceNow/search?query=Knowledge",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/@ServiceNow/search?query=Knowledge&cbrd=1&ucbcb=1",
+      "title": "ServiceNow - YouTube",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 315,
+          "label": "Knowledge YouTube Search",
+          "url": "https://www.youtube.com/@ServiceNow/search?query=Knowledge"
+        }
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/search/results/events/?keywords=ServiceNow",
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/uas/login?session_redirect=%2Fsearch%2Fresults%2Fevents%2F%3Fkeywords%3DServiceNow&skipRedirect=true",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 316,
+          "label": "LinkedIn Events Search: ServiceNow",
+          "url": "https://www.linkedin.com/search/results/events/?keywords=ServiceNow"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/events.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/events.html",
+      "title": "ServiceNow Events",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 317,
+          "label": "ServiceNow Events",
+          "url": "https://www.servicenow.com/events.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/events/on-demand-webinars.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/events/on-demand-webinars.html",
+      "title": "On Demand Webinars Gateway",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 318,
+          "label": "ServiceNow Webinars",
+          "url": "https://www.servicenow.com/events/on-demand-webinars.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/events/world-forum.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/events/world-forum.html",
+      "title": "World Forum 2026 - ServiceNow",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 319,
+          "label": "World Forum",
+          "url": "https://www.servicenow.com/events/world-forum.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow",
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow",
+      "title": "11,000+ ServiceNow jobs in United States",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 323,
+          "label": "LinkedIn Jobs Search: ServiceNow",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow"
+        }
+      ]
+    },
+    {
+      "url": "https://careers.servicenow.com/",
+      "status": 403,
+      "finalUrl": "https://careers.servicenow.com/",
+      "title": "Just a moment...",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 324,
+          "label": "ServiceNow Careers",
+          "url": "https://careers.servicenow.com/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.indeed.com/q-servicenow-jobs.html",
+      "status": 403,
+      "finalUrl": "https://www.indeed.com/q-servicenow-jobs.html",
+      "title": "Security Check - Indeed.com",
+      "fragment": "",
+      "outcome": "access-blocked",
+      "note": "Needs review; failure may be access protection",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 325,
+          "label": "ServiceNow Jobs on Indeed",
+          "url": "https://www.indeed.com/q-servicenow-jobs.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.servicenow.com/partners.html",
+      "status": 200,
+      "finalUrl": "https://www.servicenow.com/partners.html",
+      "title": "ServiceNow Partner Program",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "README.md",
+          "line": 326,
+          "label": "ServiceNow Partner Program",
+          "url": "https://www.servicenow.com/partners.html"
+        }
+      ]
+    },
+    {
+      "url": "https://example.com/",
+      "status": 200,
+      "finalUrl": "https://example.com/",
+      "title": "Example Domain",
+      "fragment": "",
+      "outcome": "reachable",
+      "note": "HTTP success; relevance requires review",
+      "references": [
+        {
+          "file": "CONTRIBUTING.md",
+          "line": 27,
+          "label": "Resource Name",
+          "url": "https://example.com/"
+        }
+      ]
+    }
+  ]
+}
